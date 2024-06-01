@@ -1,6 +1,6 @@
 # CurrencyXchange
 <!-- Imagen -->
-![Banner]()![banner-ce](https://github.com/SrDevel/CurrencyXchange/assets/120146879/05ddea72-e816-4daf-b811-b421bc2b539c)
+![Banner]![banner-ce](https://github.com/SrDevel/CurrencyXchange/assets/120146879/05ddea72-e816-4daf-b811-b421bc2b539c)
 
 
 <!-- Badges -->
@@ -16,13 +16,10 @@ CurrencyXchange es una aplicación que permite a los usuarios convertir una cant
 - Historial de conversiones
 
 ![Vista 1]![ce-v1](https://github.com/SrDevel/CurrencyXchange/assets/120146879/163936b1-054d-4ea9-9ddc-9e515ee7c7b0)
-()
-![Vista![ce-v2](https://github.com/SrDevel/CurrencyXchange/assets/120146879/80a5e10c-fede-42fd-8f5e-057006fcedec)
- 2]()
-![Vista ![ce-v3](https://github.com/SrDevel/CurrencyXchange/assets/120146879/ecd0fdfc-e83f-4e46-9c7b-d2ba13841637)
-3]()
-![Vista 4![ce-v4](https://github.com/SrDevel/CurrencyXchange/assets/120146879/1d8b15cf-eb20-4bd6-9de5-76acd6fe2b77)
-]()
+![Vista 2]![ce-v2](https://github.com/SrDevel/CurrencyXchange/assets/120146879/80a5e10c-fede-42fd-8f5e-057006fcedec)
+![Vista 3]![ce-v3](https://github.com/SrDevel/CurrencyXchange/assets/120146879/ecd0fdfc-e83f-4e46-9c7b-d2ba13841637)
+![Vista 4]![ce-v4](https://github.com/SrDevel/CurrencyXchange/assets/120146879/1d8b15cf-eb20-4bd6-9de5-76acd6fe2b77)
+
 
 ## Cómo usar
 1. Clona el repositorio
