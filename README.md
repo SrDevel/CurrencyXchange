@@ -27,6 +27,6 @@ CurrencyXchange es una aplicación que permite a los usuarios convertir una cant
 3. Ejecuta la aplicación
 
 ## Tecnologías
-- Java
+- Java 22
 - JOptionPane
 
